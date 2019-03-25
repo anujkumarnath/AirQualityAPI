@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorLocation">#D81B60</color>
+    <color name="colorCity">#D81B60</color>
+    <color name="colorUnit">#D81B60</color>
+    <color name="colorCO">#D81B60</color>
+    <color name="colorSO2">#D81B60</color>
+    <color name="colorPM10">#D81B60</color>
+    <color name="colorO3">#D81B60</color>
+    <color name="colorPM25">#D81B60</color>
+</resources>

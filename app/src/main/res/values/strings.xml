@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Air Quality</string>
+    <string name="tv_location">Location: </string>
+    <string name="tv_city">City: </string>
+    <string name="tv_CO">CO: </string>
+    <string name="tv_PM25">PM25: </string>
+    <string name="tv_SO2">SO2: </string>
+    <string name="tv_O3">O3: </string>
+    <string name="tv_PM10">PM10: </string>
+</resources>
